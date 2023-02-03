@@ -1,4 +1,4 @@
 # CV
 
 <br>
-Psyduck-m.github.io
+https://psyduck-m.github.io/CV/
